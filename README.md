@@ -19,7 +19,7 @@
     <sup>2</sup>Johns Hopkins University
 </div>
 
-[arXiv](https://arxiv.org/)
+[arXiv](https://arxiv.org/abs/2403.14760)
 
 <img src="docs/resources/teaser.png" width="100%"/>
 
