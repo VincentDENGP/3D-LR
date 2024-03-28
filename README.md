@@ -4,10 +4,10 @@
 
 <!-- <p>tl;dr: We build a platform that enables agents to scalably interact with the real-world in a virtual yet realistic environment.</p> -->
 <div>
-    Weipeng Deng<sup>1</sup>,</span>
-    <a href="https://jihanyang.github.io/" target="_blank">Jihan Yang</a><sup>1</sup>,</span>
+    <a href="https://github.com/VincentDENGP" target="_blank">Weipeng Deng</a><sup>1</sup>,</span>
     <a href="https://dingry.github.io/" target="_blank">Runyu Ding</a><sup>1</sup>,</span>
-    Jiahui Liu<sup>1</sup>,</span>
+    <a href="https://jihanyang.github.io/" target="_blank">Jihan Yang</a><sup>1</sup>,</span>
+    <a href="https://github.com/jliu-ac" target="_blank">Jiahui Liu</a><sup>1</sup>,</span>
     Yijiang Li<sup>2</sup>,</span>
     <div></div>
     <a href="https://xjqi.github.io/" target="_blank">Xiaojuan Qi</a><sup>1</sup>,</span>  
